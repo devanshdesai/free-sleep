@@ -9,7 +9,7 @@ import { useNavigate, useLocation } from 'react-router-dom';
 import { useAppStore } from '@state/appStore.tsx';
 import { useTheme } from '@mui/material/styles';
 import { PAGES } from './pages';
-import freeSleepIcon from '../../public/free-sleep-icon.svg';
+import freeSleepIcon from '../../public/new/fs-icon_512.png';
 
 export default function Navbar() {
   const navigate = useNavigate();

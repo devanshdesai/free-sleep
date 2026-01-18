@@ -30,14 +30,14 @@
     "idb": "^8.0.0",
     "lodash": "^4.17.0",
     "moment-timezone": "^0.5.0",
-    "react": "^19.2.0",
+    "msw": "^2.6.6",
+    "react": "^18.3.1",
     "react-circular-slider-svg": "^0.3.0",
-    "react-dom": "^19.0.0",
+    "react-dom": "^18.3.1",
     "react-resize-detector": "^12.0.0",
     "react-router-dom": "^7.1.0",
     "semver": "^7.7.3",
-    "msw": "^2.6.6",
-    "zod": "^3.24.0",
+    "zod": "^3.25.76",
     "zustand": "^5.0.0"
   },
   "devDependencies": {
